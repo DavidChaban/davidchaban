@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 const David = {
     pronouns: "He" | "Him",
     code: ["Javascript",  "Python"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    askMeAbout: ["web dev", "tech", "app dev", "chess"],
     technologies: {
         mobileApp: ["React Native"],
         frontEnd: {
