@@ -63,6 +63,6 @@ const David = {
    <img src="https://komarev.com/ghpvc/?username=davidchaban">
 </a>
 
-![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png)
+
 
 
