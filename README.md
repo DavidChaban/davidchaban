@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/tdcdev?label=Follow)
-[![Linkedin: daviidc](https://img.shields.io/badge/-daviidc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daviidc-p-singh/)](https://www.linkedin.com/in/daviidc-p-singh/)
+[![Linkedin: daviidc](https://img.shields.io/badge/-daviidc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daviidc/)](https://www.linkedin.com/in/daviidc/)
 ![GitHub followers](https://img.shields.io/github/followers/davidchaban?label=Follow&style=social)
 
 
