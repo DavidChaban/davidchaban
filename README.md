@@ -32,15 +32,12 @@ const David = {
     code: ["Javascript",  "Python"],
     askMeAbout: ["web dev", "tech", "app dev", "chess"],
     technologies: {
-        mobileApp: ["React Native"],
-        frontEnd: {
-            js: ["React", "Redux Toolkit"],
-            css: [ "bootstrap"]
-        },
-        backEnd: {
-            js: ["node", "express", "mongodb"],
+    "HTML5" , "CSS3", "Boostrap", " JavaScript" , "Git" , "MongoDB" , "Express", "React" ,"React Native" , "NodeJS" , "Redux Toolkit"
+            },
+        movilee: {
+             mobileApp: ["React Native"]
            
-        },
+        }
        
 ```
 <h4 align="center">Visitor's count :eyes:</h4>
