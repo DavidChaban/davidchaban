@@ -34,8 +34,8 @@ const David = {
     technologies: {
     "HTML5" , "CSS3", "Boostrap", " JavaScript" , "Git" , "MongoDB" , "Express", "React" ,"React Native" , "NodeJS" , "Redux Toolkit"
             },
-        movilee: {
-             mobileApp: ["React Native"]
+        mobileApp: {
+              "React Native"
            
         }
        
