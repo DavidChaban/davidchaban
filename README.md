@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm David Chaban</h1>
+<h1 align="center">Hi 👋, I'm David Ezequiel Chaban</h1>
 <h3 align="center">I´m Full Stack Mern <em>Developer</em> from <strong>Argentina</strong><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 
 
